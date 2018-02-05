@@ -344,3 +344,13 @@ Waypoints
 .jamie h1 { font-size: 40px; letter-spacing: 12px; margin: 10px; }
 .jamie h1 span { color: #a1a9b0; display: inline-block; }
 .jamie p { letter-spacing: 1px; }
+
+.good-design { background: url('../img/good-design.png') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 300px 0; height: auto; }
+.good-design h1 { font-size: 40px; letter-spacing: 12px; margin: 10px; }
+.good-design h1 span { color: #a1a9b0; display: inline-block; }
+.good-design p { letter-spacing: 1px; }
+
+.bad-design { background: url('../img/bad-design.png') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 300px 0; height: auto; }
+.bad-design h1 { font-size: 40px; letter-spacing: 12px; margin: 10px; }
+.bad-design h1 span { color: #a1a9b0; display: inline-block; }
+.bad-design p { letter-spacing: 1px; }
