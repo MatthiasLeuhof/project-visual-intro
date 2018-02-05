@@ -325,17 +325,17 @@ Waypoints
 .wp3 { background: url('../img/iphone-bg.png') no-repeat center center; background-position: 200px 10px; height: 100%; }
 
 
-.tycho { background: url('../img/tycho.png') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 300px 0; height: auto; }
+.tycho { background: url('../img/tycho.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 300px 0; height: auto; }
 .tycho h1 { font-size: 40px; letter-spacing: 12px; margin: 10px; }
 .tycho h1 span { color: #a1a9b0; display: inline-block; }
 .tycho p { letter-spacing: 1px; }
 
-.olly { background: url('../img/olly.png') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 300px 0; height: auto; }
+.olly { background: url('../img/olly.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 300px 0; height: auto; }
 .olly h1 { font-size: 40px; letter-spacing: 12px; margin: 10px; }
 .olly h1 span { color: #a1a9b0; display: inline-block; }
 .olly p { letter-spacing: 1px; }
 
-.simon { background: url('../img/simon.png') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 300px 0; height: auto; }
+.simon { background: url('../img/simon.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; padding: 65px 0 300px 0; height: auto; }
 .simon h1 { font-size: 40px; letter-spacing: 12px; margin: 10px; }
 .simon h1 span { color: #a1a9b0; display: inline-block; }
 .simon p { letter-spacing: 1px; }
